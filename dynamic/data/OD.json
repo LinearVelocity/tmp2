@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[114.0628251,22.5475939]},"properties":{"osmid":2319202440,"y":22.5475939,"x":114.0628251,"street_cou":4,"highway":"","ref":""}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[114.0629074,22.5338432]},"properties":{"osmid":8869146293,"y":22.5338432,"x":114.0629074,"street_cou":3,"highway":"","ref":""}}
+]}
